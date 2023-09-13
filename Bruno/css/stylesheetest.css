@@ -1,9 +1,8 @@
 body{
     background-color: #dbdbcd;
 }
-html{
-    margin-left: 100px;
-    margin-right: 100px;
+#main{
+padding: 0 15vw;
 }
 header{
     text-align: center;

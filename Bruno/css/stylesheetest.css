@@ -1,3 +1,18 @@
-.news{
-    color: red;
+body{
+    background-color: #dbdbcd;
+}
+html{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+header{
+    text-align: center;
+}
+
+
+#article{
+    column-count: 2;
+    column-gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
 }

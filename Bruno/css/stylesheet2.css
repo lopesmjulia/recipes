@@ -1,11 +1,12 @@
-div{
-    border: solid red 1px; 
+div {
+    border: solid red 1px;
     margin: 5px;
 }
 
-h1{
+h1 {
     color: blue;
 }
+
 /*
 #third span{
 visibility: hidden;
@@ -15,15 +16,15 @@ visibility: hidden;
     display: none;
 }
 */
-.sixth img{
+.sixth img {
     width: 300px;
     height: 300px;
 }
-p{
-    color:red ;
+
+p {
+    color: red;
 }
 
-.right p{
+.right p {
     background-color: red;
 }
-

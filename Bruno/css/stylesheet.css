@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Bree Serif', serif , "Times New Roman", Times, serif;
+    src: url();
+}
+
 body{
     font-family: 'Bree Serif', serif;
 }
@@ -21,6 +26,10 @@ audio{
 video{
     width: 300px;
     height: 180px
+}
+iframe{
+    width: 300px;
+    height: 180px;
 }
 
 img{

@@ -1,0 +1,30 @@
+div {
+    border: solid red 1px;
+    margin: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+/*
+#third span{
+visibility: hidden;
+}
+
+.right p{
+    display: none;
+}
+*/
+.sixth img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color: red;
+}
+
+.right p {
+    background-color: red;
+}

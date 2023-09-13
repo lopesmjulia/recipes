@@ -1,3 +1,29 @@
 h1{
     color: blue;
 }
+div{
+    margin: 5px;
+}
+ #third span{
+    visibility: hidden; /*this hides the thing and it does leave a space*/
+ }
+ #fifth p{
+    display: none;
+ }
+ .right img{
+    width: 300px;
+    height:300px;
+ }
+ p{
+    color:red;
+ }
+
+ #fifth p{
+    display: initial;
+ }
+ #third span{
+    visibility: initial;
+ }
+ #third p{
+    background-color: aquamarine;
+ }

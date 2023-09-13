@@ -8,13 +8,11 @@ header{
 table {
     width: 100%;
     margin-top: 50px;
-    border: solid 1px black;
 }
 
 th,
 td {
     text-align: center;
-    border: solid 1px black;
 }
 
 audio{
@@ -23,6 +21,10 @@ audio{
 video{
     width: 300px;
     height: 180px
+}
+iframe{
+    width: 300px;
+    height: 180px;
 }
 
 img{

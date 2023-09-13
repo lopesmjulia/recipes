@@ -1,21 +1,18 @@
 body{
     background-color:#D5E0FF;
-
+    font-family: 'Bree Serif', serif;
 }
 header{
     text-align: center;
 
 }
 table {
-    border-collapse: collapse;
     width: 100%;
-    border: 1px solid black;
     margin-top: 50px;
 }
 
 th,
 td {
-    border: 1px solid black;
     padding: 8px;
     text-align: center;
 }
